@@ -47,3 +47,5 @@ foreach my $strOneFile ( @lstFiles )
 }
 
 print ( "Gesamt : $iSum\n" );
+
+### test test test test test test for GIT
